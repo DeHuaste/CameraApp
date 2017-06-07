@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="CameraButton">Camera</string>
+    <string name="okMessage">Video has been saved to:\n</string>
+    <string name="cancelMessage">Failed to record video</string>
+</resources>
